@@ -27,7 +27,7 @@ request.onload = function () {
 
 
       ee = document.createElement('eeee');
-      ee.textContent = id.name + ': wtf effe';
+      ee.textContent = id.24h_volume_usd + ': wtf effe soðł’ð (in “MUruruuuuuuuuuuuiCANN$) in 1457 86400 SEC$';
 
 
       const p = document.createElement('p');
