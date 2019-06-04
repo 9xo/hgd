@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+# y0lłzert
+## Contact : [e](mailto:1by0@pm.me)[T](https://T.me/itsN1X)
+`$biz in i -t`
 <html lang="en">
 
 <head>
