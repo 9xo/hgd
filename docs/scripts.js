@@ -23,16 +23,20 @@ request.onload = function () {
       const h1 = document.createElement('h1');
       h1.textContent = id.max_supply;
       const h2 = document.createElement('h2');
-      h2.textContent = id.name + '⇨ has some ' + id.total_supply;
+      h2.textContent = 'nOUR, ' + id.name + '⇨ has some ' + id.total_supply;
 
 
       ee = document.createElement('eeee');
-      ee.textContent = id.name + ': wtf effe';
+      ee.textContent = id.market_cap_usd + ' vCrazy,№. » ' + id.rank + 'th this dæy!';
+
+      
 
 
       const p = document.createElement('p');
       id.name = id.name.substring(3, 9);
       p.textContent = `${id.name}...`;
+
+
 
 
       container.appendChild(card);
@@ -43,7 +47,7 @@ request.onload = function () {
     });
   } else {
     const errorMessage = document.createElement('marquee');
-    errorMessage.textContent = `Gah, it's not working!`;
+    errorMessage.textContent = `wuhtf ¬gg`;
     app.appendChild(errorMessage);
   }
 }
