@@ -6,6 +6,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="CoinMarketCap">
+<meta property="og:image" content="https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:image:width" content="600">
+<meta property="og:image:height" content="315">
+<meta name="twitter:card" content="summary_large_image">
+<meta property="og:title" content="Cryptocurrency Market Capitalizations | CoinMarketCap" />
+<meta name="description" content="Cryptocurrency market cap rankings, itsN1X, zzpraf1n1x42af, charts, and more" />
+<meta property="og:description" content="Cryptocurrency market cap rankings, charts, itsN1X, zzpraf1n1x42af and more" />
 
 </head>
 
@@ -23,4 +34,7 @@ document.getElementById("demo").innerHTML = d;
 <h1>Who?<a href="https://gab.ai/a11">?</a>?</h1>
 master x, zzpraf1n1x42af
 </body>
+<footer>
+Support further development by pledging us a minimal token gratuity.<br><i>Please visit <strong> <a hre=='https://9xo.github.io/R> 9×Ø / ® </a> </strong></i> to contribute.
+</footer>
 </html>
