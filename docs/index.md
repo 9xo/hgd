@@ -36,7 +36,7 @@ master x, zzpraf1n1x42af
 </body>
 <footer>
   <font size=2>
-Support further development by pledging us a minimal token gratuity.<br><i>Please visit <strong> <a href='https://9xo.github.io/R> 9×Ø / ® </a> </strong></i> to contribute ^tic$.
+Support further development by pledging us a minimal token gratuity.<br><i>Please visit <strong> <a href="https://9xo.github.io/R"> 9×Ø / ® </a> </strong></i> to contribute ^tic$.
   </font>
 </footer>
 </html>
