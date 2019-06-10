@@ -10,7 +10,7 @@ app.appendChild(logo);
 app.appendChild(container);
 
 var request = new XMLHttpRequest();
-request.open('GET', 'https://api.coinmarketcap.com/v1/ticker/?limit=3&start=4', true);
+request.open('GET', 'https://api.coinmarketcap.com/v1/ticker/?limit=32', true);
 request.onload = function () {
 
   // Begin accessing JSON data here
@@ -23,7 +23,7 @@ request.onload = function () {
       const h1 = document.createElement('h1');
       h1.textContent = id.max_supply;
       const h2 = document.createElement('h2');
-      h2.textContent = 'nOUR, ' + id.name + '⇨ has some ' + id.total_supply;
+      h2.textContent = 'nOUR, ' + id.name + '⇨ has some ' + id.total_supply + ' in totality ';
 
       ee = document.createElement('eeee');
       ee.textContent = id.market_cap_usd + ' vCrazy,№. » ' + id.rank + 'th this dæy!';
@@ -34,7 +34,7 @@ request.onload = function () {
       container.appendChild(card);
       card.appendChild(h1);
       card.appendChild(h2);
-      card.appendChild(ee);
+      card.appendChild(eeee);
       card.appendChild(p);
     });
   } else {
