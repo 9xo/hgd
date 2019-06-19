@@ -1,5 +1,5 @@
 # y0lłzert
-## Contact : [e](mailto:1by0@pm.me)[T](https://T.me/itsN1X)
+## Contact : [e📨](mailto:1by0@pm.me)[T☎](https://T.me/itsN1X)
 `$biz in i -t`
 <html lang="en">
 
@@ -9,11 +9,7 @@
   
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="CoinMarketCap">
-<meta property="og:image" content="https://s2.coinmarketcap.com/static/cloud/img/splash_600x315_1.png">
-<meta property="og:image:type" content="image/png">
-<meta property="og:image:width" content="600">
-<meta property="og:image:height" content="315">
-<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:card" content="Bitcoin">
 <meta property="og:title" content="Cryptocurrency Market Capitalizations | CoinMarketCap" />
 <meta name="description" content="Cryptocurrency market cap rankings, itsN1X, zzpraf1n1x42af, charts, and more" />
 <meta property="og:description" content="Cryptocurrency market cap rankings, charts, itsN1X, zzpraf1n1x42af and more" />
@@ -22,13 +18,13 @@
 
 <body><div id="demo"></div>
 <hr>
-<script>
+Oh! Ye āli-VE, its :: <script>
 var d = new Date();
 document.getElementById("demo").innerHTML = d;
 </script><br><hr>
   <div id="root"></div>
 
-  <script src="scripts.js"></script>
+  <script src="hgd.js"></script>today
 <hr>
 <h3>Made with 🚬💥 by ×3.</h3>
 <h1>Who?<a href="https://gab.ai/a11">?</a>?</h1>
