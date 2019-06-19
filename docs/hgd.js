@@ -23,10 +23,10 @@ request.onload = function () {
       const h1 = document.createElement('h1');
       h1.textContent = ' at the maximus, ⛔: ' + id.max_supply;
       const h2 = document.createElement('h2');
-      h2.textContent = 'nOUR, ' + id.name + ',⇨ has now just' + id.total_supply;
+      h2.textContent = 'nOUR, ' + id.name + ' , ' + id.percent_change_7d + ' ⇨ has now just' + id.total_supply;
 
       ee = document.createElement('eeee');
-      ee.textContent = ' awor ' + id.market_cap_usd + ' vCrazy,№. » ' + id.rank + 'th this dæy!';
+      ee.textContent = id.price_BTC + ' awor ' + id.market_cap_usd + ' vCrazy,№. » ' + id.rank + 'th this dæy!';
       const p = document.createElement('p');
       id.name = id.name.substring(3, 9);
       p.textContent = `${id.name}...`;
