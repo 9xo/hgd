@@ -26,7 +26,7 @@ request.onload = function () {
       h2.textContent = 'nOUR, ' + id.name + ' , ' + id.percent_change_7d + ' ‰:⇨ has now just' + id.total_supply;
 
       ee = document.createElement('eeee');
-      ee.textContent = ' … ${id.price_BTC} awor ' + id.market_cap_usd + ' vCrazy,№. » ' + id.rank + 'th this dæy!';
+      ee.textContent = ` … ${id.price_BTC} awor ` + id.market_cap_usd + ' vCrazy,№. » ' + id.rank + 'th this dæy!';
       const p = document.createElement('p');
       id.name = id.name.substring(2, 7);
       p.textContent = `${id.name}...`;
