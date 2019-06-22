@@ -31,12 +31,7 @@ document.getElementById("demo").innerHTML = d;
 <h1>Who?<a href="https://gab.ai/a11">?</a>?</h1>
 master x, zzpraf1n1x42af<br><hr><hr><br>
 </body>
-
-footer {
-font-size:small;
-}
-
-<footer>Support further development by pledging us a minimal token gratuity.<br><i>Please visit <strong> <a href="https://9xo.github.io/R"> 9×Ø / ® </a> </strong></i> to contribute ^tic$.</footer>
+<HR><HR><HR><HR>
 
 <p style="font-size: 9pt;">Support further development by pledging us a minimal token gratuity.<br><i>Please visit <strong> <a href="https://9xo.github.io/R"> 9×Ø / ® </a> </strong></i> to contribute ^tic$.</p>
 
