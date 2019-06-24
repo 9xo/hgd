@@ -19,10 +19,10 @@
 
 <body><div id="demo"></div>
 <hr>
-Oh! Ye āli-VE, its :: <script>
+Oh! Ye āli-VE, its ::↑:: <script>
 var d = new Date();
 document.getElementById("demo").innerHTML = d;
-</script> since Domina.<br><hr>
+</script> since{ā}Domini.<br><hr>
   <div id="root"></div>
 
   <script src="hgd.js"></script>
