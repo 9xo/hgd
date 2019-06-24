@@ -1,6 +1,6 @@
-#9xO
-###### y0lłze[®](https://9x0.github.io/R/teb)t
-## Contact : [e📨](mailto:1by0@pm.me)[T☎](https://T.me/itsN1X)
+# 9xO
+## y0lłze[®](https://9x0.github.io/R/teb.md)t
+### Contact : [e📨](mailto:1by0@pm.me)[T☎](https://T.me/itsN1X)
 `$biz in i -t`
 <html lang="en">
 
@@ -22,10 +22,10 @@
 Oh! Ye āli-VE, its :: <script>
 var d = new Date();
 document.getElementById("demo").innerHTML = d;
-</script><br><hr>
+</script> since Domina.<br><hr>
   <div id="root"></div>
 
-  <script src="hgd.js"></script>today
+  <script src="hgd.js"></script>
 <hr>
 <h3>Made with 🚬💥 by ×3.</h3>
 <h1>Who?<a href="https://gab.ai/a11">?</a>?</h1>
