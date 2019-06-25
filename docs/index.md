@@ -1,5 +1,5 @@
 # 9xO
-## y0lłze[®](../R/teb)t
+## y0lłze[®](HTTPS://9xo.github.io/R/teb)t
 ### Contact : [e📨](mailto:1by0@pm.me)[T☎](https://T.me/itsN1X)
 `$biz in i -t`
 <html lang="en">
