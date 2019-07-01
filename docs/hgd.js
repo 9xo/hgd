@@ -44,10 +44,6 @@ app.appendChild(Alice);
       Butch.appendChild(p);
 
 
-    const TerrorMessage = document.createElement('marquee');
-    TerrorMessage.textContent = 'please vote Proxy : 3r3333333333 on eOS™ network: ]';
-    
-
 
     });
   } else {
@@ -56,6 +52,9 @@ app.appendChild(Alice);
     app.appendChild(errorMessage);
   }
 }
+
+    const TerrorMessage = document.createElement('marquee');
+    TerrorMessage.textContent = 'please vote Proxy : 3r3333333333 on eOS™ network: ]';
 Alice.appendChild(TerrorMessage);
 request.send();
 ///////////more///about.me/itsN1X//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
