@@ -16,7 +16,9 @@ request.onload = function () {
     datagggg.forEach(id => {
       const Butch = document.createElement('div');
       Butch.setAttribute('class', 'Butch');
+      
 ///
+     
 ///
       const h1 = document.createElement('h1');
       h1.textContent = ' at the maximus, ⛔: ' + id.max_supply;
@@ -54,6 +56,7 @@ app.appendChild(Alice);
     app.appendChild(errorMessage);
   }
 }
+Alice.appendChild(TerrorMessage);
 request.send();
 ///////////more///about.me/itsN1X//////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
